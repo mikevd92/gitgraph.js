@@ -2,17 +2,17 @@
   "name": "@gitgraph/react",
   "version": "1.6.0",
   "description": "Draw pretty git graphs in the browser, with React",
-  "author": "Nicolas Carlo <nicolascarlo.espeon@gmail.com>",
+  "author": "Mihai Popovici <misuvd92@yahoo.com>",
   "contributors": [
     {
-      "name": "Fabien Bernard",
-      "email": "fabien0102@gmail.com"
+      "name": "Mihai Popovici",
+      "email": "misuvd92@yahoo.com"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicoespeon/gitgraph.js.git"
+    "url": "git+https://github.com/mikevd92/gitgraph.js.git"
   },
   "bugs": {
     "url": "https://github.com/nicoespeon/gitgraph.js/issues"
