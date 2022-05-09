@@ -1,6 +1,6 @@
 {
   "name": "gitgraph.js-monorepo",
-  "private": true,
+  "private": false,
   "version": "2.0.0-monorepo",
   "author": "Mihai Popovici <misuvd92@yahoo.com>",
   "description": "A JavaScript library to draw pretty git graphs",
