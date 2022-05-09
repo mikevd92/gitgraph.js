@@ -2,7 +2,7 @@
   "name": "gitgraph.js-monorepo",
   "private": true,
   "version": "2.0.0-monorepo",
-  "author": "Nicolas Carlo <nicolascarlo.espeon@gmail.com>",
+  "author": "Mihai Popovici <misuvd92@yahoo.com>",
   "description": "A JavaScript library to draw pretty git graphs",
   "contributors": [
     {
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicoespeon/gitgraph.js"
+    "url": "https://github.com/mikevd92/gitgraph.js.git"
   },
   "license": "MIT",
   "keywords": [
